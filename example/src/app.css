@@ -1,0 +1,18 @@
+.circular-progress,
+.button-group {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.circular-progress {
+  margin-right: 10px;
+}
+
+.button-group button {
+  width: 32px;
+  cursor: pointer;
+}
+
+.button-group button:first-child {
+  margin-right: 6px;
+}
