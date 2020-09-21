@@ -1,7 +1,13 @@
 {
   "name": "@sorciere/circular-progress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component for display circular progress data with svg.",
+  "keywords": ["circular-progress", "svg", "react", "javascript", "sorciere"],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/zhuangTianYu/circular-progress"
+  },
+  "homepage": "https://github.com/zhuangTianYu",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
