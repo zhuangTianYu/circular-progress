@@ -9,10 +9,11 @@
 }
 
 .button-group button {
-  width: 32px;
+  min-width: 32px;
+  margin-right: 6px;
   cursor: pointer;
 }
 
-.button-group button:first-child {
-  margin-right: 6px;
+.button-group button:last-child {
+  margin-right: 0;
 }

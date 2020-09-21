@@ -17,6 +17,7 @@ const App = () => {
       <div className="button-group">
         <button onClick={() => setValue(value + 0.1)}>+</button>
         <button onClick={() => setValue(value - 0.1)}>-</button>
+        <button onClick={() => setValue(0)}>reset</button>
       </div>
     </div>
   )
