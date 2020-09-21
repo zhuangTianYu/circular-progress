@@ -4,8 +4,8 @@
   "description": "React component for display circular progress data with svg.",
   "keywords": ["circular-progress", "svg", "react", "javascript", "sorciere"],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/zhuangTianYu/circular-progress"
+    "type": "git",
+    "url": "https://github.com/zhuangTianYu/circular-progress"
   },
   "homepage": "https://github.com/zhuangTianYu",
   "main": "lib/index.js",
